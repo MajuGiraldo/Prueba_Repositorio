@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LAB-INTERFACES
 
 ## Dependencias
@@ -111,3 +112,6 @@ La universidad ha decidido integrar el sistema de EPS's al sistema de nomina, pa
  * Todos los editables de los diagramas de este laboratorio se encuentran en la carpeta `diagrams`.
  * Cree un repositorio llamado APELLIDO1-APELLIDO2-APELLIDO3-SABANA-POOB-2021-1-LAB-ABSTRACT-CLASS en GitHub y suba a llí la solución del laboratiorio.
  * Cree un archivo SOLUTION.md donde deberá documentar toda la solución del laboratorio. NO MODIFIQUE EL README.md.
+=======
+# Prueba_Repositorio
+>>>>>>> ea357fe46435d9186e92d1b88641cc11dc166c39
